@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+.contact{
+    display: flex;
+    justify-content: center;
+}
+.contact-text{
+    color:rgb(228, 228, 46);
+    font-size: 40px;
+    align-items: center;
+    
+}
